@@ -1,39 +1,60 @@
+## Hi 👋, I'm Siham Binta Habib
+<a href='https://www.linkedin.com/in/siham-binta-habib/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<br>
 
 
-<h1 align="center">Hi 👋, I'm Siham Binta Habib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align='left'>My name is Siham Binta Habib, and I am currently a BBA student in my 5th semester at Notre Dame University Bangladesh. Alongside my business studies, I have developed a strong passion for frontend web development. I have taught myself modern technologies like HTML5, CSS3, JavaScript, React, and Next.js. Outside of coding, I enjoy solving problems, learning new technologies, and continuously improving my craft.</p>
-<p align="center"> 
-<img align="center" alt="Coding" width="full" src="https://i.gifer.com/7ttQ.gif"> </p>
+My name is Siham Binta Habib, and I am currently a BBA student in my 5th semester at Notre Dame University Bangladesh. Alongside my business studies, I have developed a strong passion for frontend web development. I have taught myself modern technologies like HTML5, CSS3, JavaScript, React, and Next.js. Outside of coding, I enjoy solving problems, learning new technologies, and continuously improving my craft.
+<br/>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sihambintahabib-ux&label=Profile%20views&color=0e75b6&style=flat" alt="sihambintahabib-ux" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sihambintahabib-ux" alt="sihambintahabib-ux" /></a> </p>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 - 🔭 I’m currently working on [next js project](https://github.com/Sihambintahabib-ux/ph-milestone-projects.git)
-
 - 🌱 I’m currently learning **NextJS and Typescript**
-
 - 💬 Ask me about **React , Next js**
-
 - 📫 How to reach me **sihambintahabib@gmail.com**
-
 - ⚡ Fun fact **I am creative but stubborn**
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/siham-binta-habib/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/siham-binta-habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siham-binta-habib" height="30" width="40" /></a>
-<a href="https://fb.com/siham.binta.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siham.binta.77" height="30" width="40" /></a>
-<a href="https://discord.gg/sihambintahabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sihambintahabib" height="30" width="40" /></a>
+<br>
+<br>
+<br>
+
+
+### 🔨 Languages and Tools:
+<p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  alt="JavaScript" height ="40px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img  alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img  alt="React" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img  alt="Node.js" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='40px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='40px'/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+<br>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 
 
+<br>
 
---- 
+### 🛠️ My Projects
+ - [Git page setup](https://github.com/Sihambintahabib-ux/git-page-set-up-.git)
+ - [Full project using : react](https://github.com/Sihambintahabib-ux/assairment-11-combine.git)
 
-
+<br>
 github readme file create : https://rahuldkjain.github.io/gh-profile-readme-generator/
