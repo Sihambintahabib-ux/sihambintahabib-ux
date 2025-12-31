@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 ## Hi 👋, I'm Siham Binta Habib
 <a href='https://www.linkedin.com/in/siham-binta-habib/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
@@ -41,8 +48,11 @@ My name is Siham Binta Habib, and I am currently a BBA student in my 5th semeste
 
 
 ### 📊 Github Stats
+  ![](https://github-readme-stats.vercel.app/api?username=Sihambintahabib-ux&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sihambintahabib-ux&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sihambintahabib-ux&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br>
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
@@ -52,9 +62,23 @@ My name is Siham Binta Habib, and I am currently a BBA student in my 5th semeste
 
 <br>
 
+
+
 ### 🛠️ My Projects
  - [Git page setup](https://github.com/Sihambintahabib-ux/git-page-set-up-.git)
  - [Full project using : react](https://github.com/Sihambintahabib-ux/assairment-11-combine.git)
 
 <br>
-github readme file create : https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sihambintahabib-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sihambintahabib-ux&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br>
+github readme file create : [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) 
+<br>
+github readme file create : [GPRM](https://gprm.itsvg.in/?fbclid=IwY2xjawPCE3VleHRuA2FlbQIxMABicmlkETFiczhtRVg2VGJ6QWliM0M3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgkD6o6lC_KZfkdjioPEiX-rlSKptUqHNPk-4CwPnW56NIDoQ0Z3vVxuqSAK_aem_yHVP0sbVZoQ6syftcu22Cw)
