@@ -86,18 +86,14 @@ My name is Siham Binta Habib, and I am currently a BBA student in my 5th semeste
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sihambintahabib-ux&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <br>
-
 github readme file create : [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) 
 <br>
-
 github readme file create : [GPRM](https://gprm.itsvg.in/?fbclid=IwY2xjawPCE3VleHRuA2FlbQIxMABicmlkETFiczhtRVg2VGJ6QWliM0M3c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgkD6o6lC_KZfkdjioPEiX-rlSKptUqHNPk-4CwPnW56NIDoQ0Z3vVxuqSAK_aem_yHVP0sbVZoQ6syftcu22Cw)
-
 <br>
-
-git awasone repository: [git awasone repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-)
+git awasone repository: [git awasone repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-) 
+<br>
 git awasone STATS repository: [git awasone STATS repository](https://github.com/DenverCoder1/github-readme-streak-stats)
-  
+  <br>
+git awasone STATS repository: [git awasone STATS repository](https://github.com/anuraghazra/github-readme-stats.git)
+  <br>
