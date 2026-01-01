@@ -81,8 +81,14 @@ My name is Siham Binta Habib, and I am currently a BBA student in my 5th semeste
 
 <br>
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sihambintahabib-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+### Contact me :
+- ​Email: sihambintahabib@gmail.com
+- GitHub: https://github.com/Sihambintahabib-ux
+- Facebook : https://www.facebook.com/siham.binta.77/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sihambintahabib-ux&icon=0&color=0)](https://visitcount.itsvg.in)
