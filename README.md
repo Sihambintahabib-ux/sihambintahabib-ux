@@ -1,3 +1,4 @@
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Sihambintahabib-ux&theme=dark)](https://git.io/streak-stats)-->
 
 <!-- <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
@@ -98,4 +99,5 @@ github readme file create : [GPRM](https://gprm.itsvg.in/?fbclid=IwY2xjawPCE3Vle
 <br>
 
 git awasone repository: [git awasone repository](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-)
+git awasone STATS repository: [git awasone STATS repository](https://github.com/DenverCoder1/github-readme-streak-stats)
   
