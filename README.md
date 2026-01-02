@@ -16,11 +16,17 @@
 
 
 
+  
 ## Hi 👋, I'm Siham Binta Habib
 <a href='https://www.linkedin.com/in/siham-binta-habib/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <br>
 
+
+<img width="1584" height="396" alt="Siham binta habib" src="https://github.com/user-attachments/assets/63c1b244-a473-4380-9ef2-2018f67fd82a" />
+
+
+<br>
 
 My name is Siham Binta Habib, and I am currently a BBA student in my 5th semester at Notre Dame University Bangladesh. Alongside my business studies, I have developed a strong passion for frontend web development. I have taught myself modern technologies like HTML5, CSS3, JavaScript, React, and Next.js. Outside of coding, I enjoy solving problems, learning new technologies, and continuously improving my craft.
 <br/>
